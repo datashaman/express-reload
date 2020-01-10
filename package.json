@@ -15,7 +15,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "chokidar": "^1.7.0",
-    "debug": "^2.6.8"
+    "chokidar": "^3.3.1",
+    "debug": "^4.1.1"
   }
 }
